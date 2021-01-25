@@ -1,4 +1,4 @@
-# EcommerceApp
+# RestApi
 
 A new Flutter project.
 
